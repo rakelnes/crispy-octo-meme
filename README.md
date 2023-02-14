@@ -22,4 +22,6 @@ b=helningsvinkel
 
 t= tidsendring 
 bruker metode 2, 
-lager en list med farten, fra lista med fart inn i formel 14 fra teoriarket.
+lager en list med farten, fra lista med fart som vi hadde fra før,inn i formel 14 fra teoriarket.
+med denne lista lager vi en for-løkke som itererer gjennom alle x-punktene i lista, 
+og for hver gang legger til tiden for hvert intervall, som til slutt gir tiden fra start til slutt

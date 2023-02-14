@@ -14,4 +14,12 @@ kinetisk energi i gitt punkt y-> mgy+(1/2)mv^2+(1/2)Iw^2
 vinkelhastighet w=v/r
 formel: mgy+(1/2)mv^2+ (c/2)mv^2   (erstatter (1/2)Iw^2 med (c/2)mv^2)
 
-v=
+v= farten
+b=helningsvinkel
+
+
+
+
+t= tidsendring 
+bruker metode 2, 
+lager en list med farten, fra lista med fart inn i formel 14 fra teoriarket.

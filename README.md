@@ -9,6 +9,7 @@ og c = 2/5
 
 siden det er ren rulling (altså at kula ikke glir, bare ruller) får vi statisk friksjon.
 dvs mekanisk energi er bevart.
+potelsiell energi i startpunktet = kinetisk energi det gir farten.
 fartsformelen kommer fra formelen om total kinetisk energi som er skrevet om.
 finner farten ved hjelp av formelen oppgitt v(y) = sqrt((2g(yo-y))/(1+c))
 setter g= 9.81*10**-3
@@ -24,10 +25,14 @@ formel: mgy+(1/2)mv^2+ (c/2)mv^2   (erstatter (1/2)Iw^2 med (c/2)mv^2)
 
 
 b = helningsvinkel
+helningsvinkelen er enkelt og greit gitt ved arctan(dy).
 
 k = krumning
+krumningen er gitt ved formel 5 i formelarket
 
+sentripetalakselerasjon = formel 6
 
+normalkraften = formel 8 og 9
 
 
 t= tidsendring 

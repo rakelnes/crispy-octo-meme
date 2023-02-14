@@ -6,7 +6,10 @@ endret skruehøyder til : 300, 260, 187, 186, 245, 239, 192, 203
 vi vet: massen m = 31g, c=2/5 og raduis r=11mm
 
 finner farten ved hjelp av formelen oppgitt v(y) = sqrt((2g(yo-y))/(1+c))
-v(187) = 
+setter g= 9.81*10**-3
+og y0= 300 (startposisjon)
+c=2/5 (som oppgitt i formelarket)
+setter disse verdiene inn i 
 
 treghetsmomentet I=cmr^2
 potensiell energi i startpunkt-> mgyo

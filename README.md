@@ -34,9 +34,18 @@ sentripetalakselerasjon = formel 6
 
 normalkraften = formel 8 og 9
 
+friksjonskraft = formel 13 (det var en feil i dette dokumentet)
+forholdet mellom friksjonskraft og normalkraft finner vi ved å dele normalkraft på friksjonskraft
+
 
 t= tidsendring 
 bruker metode 2, 
 lager en list med farten, fra lista med fart som vi hadde fra før,inn i formel 14 fra teoriarket.
 med denne lista lager vi en for-løkke som itererer gjennom alle x-punktene i lista, 
 og for hver gang legger til tiden for hvert intervall, som til slutt gir tiden fra start til slutt
+
+
+spørsmål til lab:
+- hjelp med forholdet mellom friksjonskraft og normalkraft
+- hvordan få selvtillit (i dette faget)
+- hva må egt være i rapporten og hvor skal den skrives
